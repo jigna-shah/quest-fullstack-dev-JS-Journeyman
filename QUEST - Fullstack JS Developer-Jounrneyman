@@ -1,0 +1,31 @@
+QUEST - Fullstack (JS) developer in 2017 (Node / React Flavour)
+
+* Journeyman (General)
+ - HTML5 & Handling complex pages (Pagination, filtering, panes, tabs) ------ But we will need some JS framework here to achieve this?
+ - Integrating with actual application (e.g. Create a Login page using Spring Boot and apply JS validations)
+
+* Journeyman (Specific)
+ - Understanding npm modules and Node frameworks (EXPRESS++ apps, Hapi, Electron - Desktop)
+ - Installing JS framework
+ - IMMUTABLEJS, REDUX AND REACT-REDUX
+ - Creating clientside applications using JS frameworks (AngularJS/Angular 2 & React & ASYNCHRONOUS CALLS, FETCH etc.)
+ - Testing JS frameworks - Jasmin, Kerma, Grunt, (JEST, Mocha, Chai, Sinon common but often used with Node)
+ - Creating Node applications (basic modules like http, fs, etc.)
+ - COPING WITH ES-FLAVOURS - BABEL AND ES6
+ - TYPE-CHECKING - FLOW
+ - STYLE-CHECKING - ESLINT
+ - BROWSER COMPATABILITY - COMPAT
+ - DEVELOPMENT FLOW WITH NODEMON, PM2 AND NODE HOT MODULE REPLACEMENT (HMR)
+ - DEPLOYING TO THE CLOUD - AWS???
+ - Setting up Jenkins build pipelines?
+ - Databases - MongoDB, NeDB, MySQL
+ - SERVER SIDE RENDERING
+ - STYLING - JSS
+
+* Master (TBC)
+
+META-Skills
+ * Learning how to learn
+ * Learning how to research
+ * learning how to problem solve - ITERATION
+ * learning how to harness creativity - ITERATION
