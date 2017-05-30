@@ -1,11 +1,8 @@
 QUEST - Fullstack (JS) developer in 2017 (Node / React Flavour)
 
 * Journeyman (General)
- - Further UX Design and implementation
-   - Material Design
-   - Breaking down UI into components
-   - One page applications
- - Introduction to HTML5 and CSS3 and experimental JavaScript APIs (File API, Fetch API, HTML5 tags, CSS Variables)
+ - [Further UX Design and implementation](https://github.com/jigna-shah/skill-further-UX-design-and-implementation-journeyman-dev)
+ - [Porgraming with HTML5 and CSS3 and experimental JavaScript APIs](https://github.com/jigna-shah/skill-programing-with-HTML5-CSS3-and-Javascript-API-JS-journeyman-dev)
  - Introduction to React
  - Connecting to server-side applications (RESTful APIs & websockets)
  - Integrating with server-side web application (e.g. Create a Login page using Spring Boot and apply JS validations)
